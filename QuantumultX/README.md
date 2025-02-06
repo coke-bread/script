@@ -1,5 +1,7 @@
 # Quantumult X
+**去广告**
 
+``去广告重写开启后请先清除缓存,QuantumultX重写需配合对应的.snippet文件``
 
 # 目录说明
 + rewrite 重写
