@@ -1,1 +1,1 @@
-```rule_for_quantumultX```
+``rule_for_quantumultX``
